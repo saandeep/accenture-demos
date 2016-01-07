@@ -33,17 +33,36 @@ The demo will have 4 different parts/acts, that talk about
 On the top right, you will see the org and env drop down. Use that to talk about Apigee's multi tenancy and how it helps enterprises to manage multiple projects with shared, dedicated, one DC, multiple DC scenarios.
 
 
+- Show the list of APIs
 
+The scenario in the demo is, Cosafinity API is powering all the mobile, IOT and partner channels for Cosafinity. 
+Corrosponding to that you will see the APIs around `catalogs`, `products`, `stores`, `offers` etc in the list
 
-The Cosafinity API is powering all the mobile, IOT and partner channels. 
-Corrosponding to that you will see the APIs around `catalogs`, `products`, `stores`, `offers` etc
 - Talk about the operational analytics that you see on the dashboard.
 At this point stress up on the importance of operational metrics for the API owners, in a scenario where thier API is used by other teams, other partners. 
+
+You can either talk about the Traffic, Message Trend by Hour, Avg Time, Error Rate fields that you see for different APIs. Or go to the Anlytics tab and show an operation use case. 
+In this image, you will see a report that shows the IPs sending traffic to `catalogs` API at a given time. If you see an anomoly and a malicious IP 1. You have visibility right here as API Owner 2. You can take a corrective action (we will see how you can do that later in the demo)
+
+![2_operational_metrics.png](./images/2_operational_metrics.png)
+
 - Optional: Create an API Proxy
 Show how an API can be on-boarded to the org. 
 The best way to do that is, create an API Proxy from an existing/sample WSDL
+	
+	- Click on `+ API Proxy` button
+	![3_add_proxy.png](./images/3_add_proxy.png)
+	- Select `wsdl` radio button and select the stockquote from the dropdown
+	![4_select_wsdl.png](./images/4_select_wsdl.png)
 	- Talk about the Facade pattern, and the ability to abstract the complixity of the backend and create a RESTful API, with a proper version number, resources etc
+	![5_facade.png](./images/5_facade.png)
+
 - Open an existing API Proxy `products`. Go to `Develop` tab to show the policy framework
+
+![6_develop_tab.png](./images/6_develop_tab.png)
+
+![7_resources.png](./images/7_resources.png)
+
 - The `productdetails` resource is a simple passthrough, sending the request to the backend service
 - The `CreateProductReviews` is a more interesting usecase
 For the demo, the scenario is `Cosafinity` is a traditional brick and mortor retailer and they do not have a lot of social capabilities around giving users ability to review the products. In order to compete with the digital natives, they want to include this functionality in thier mobile App, but they do not have a backend service to store the reviews. 
