@@ -25,7 +25,8 @@ The demo will have 4 different parts/acts, that talk about
 
 ## Act 1
 - Login to Management UI - https://edge.apigee.com, Org: `amer-demo27`
-On the top right talk about the multiple organizations and environments. For an enterprise, Apigee's multi tenancy helps them to create
+On the top right, you will see the org and env drop down. Use that to talk about Apigee's multi tenancy and how it helps enterprises to manage multiple projects with shared, dedicated, one DC, multiple DC scenarios.
+![1-org-app.png](./images/1-org-app.png)
 - Go to `APIs` Tab on the top 
 The Cosafinity API is powering all the mobile, IOT and partner channels. 
 Corrosponding to that you will see the APIs around `catalogs`, `products`, `stores`, `offers` etc
