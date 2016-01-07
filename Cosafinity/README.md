@@ -73,15 +73,21 @@ If you plan to show API BaaS Separately, introduce this example and cover API Ba
 At this point talk about the policy Framework, add a step to show the policies available. Talk about the Out Of the Box policies as well as extension policies
 
 ## Act 2 - API BaaS
+
 This is optional, and you will do it only if you have enough time in the demo. 
+
 Login to https://appservices.apigee.com Org: `amer-demo27` App: `cosafinity`
+
 Show the data model 
+
 Show the stores entity with Locaion quries
 
 ## Act 3 - Developer Onboarding
+
 At this point you would have walked through the API on-boarding. The API is operationally ready, with unified security, traffic management across different heterogeneous backend systems.
 
 Now the next challenge is- how do you make this API ready from a Business standpoint.
+
 - Go to Publish tab 
 - Walk through API Products
 An API Product is a bundle of API proxies combined with a service plan that sets limits on access to those APIs. API products are the central mechanism that Apigee Edge uses for authorization and access control to your APIs. For more, see [API Products](http://apigee.com/docs/developer-services/content/what-api-product)
