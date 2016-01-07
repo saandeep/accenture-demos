@@ -1,0 +1,35 @@
+{
+  "accessType" : "",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "5115c367-188d-44ec-ae40-4c930145ecd2",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "IphoneApplication"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1421107498247,
+  "createdBy" : "sandeep@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "gold",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "xUr7Yc8yo4oQUuXC006wDULKc27EWAen",
+    "consumerSecret" : "9mgg6f0oOCAZm0Rb",
+    "expiresAt" : -1,
+    "issuedAt" : 1421107560670,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "r1Quw7Mzwj3bm4G0",
+  "lastModifiedAt" : 1421217306699,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "IphoneApplication",
+  "scopes" : [ ],
+  "status" : "approved"
+}

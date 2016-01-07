@@ -1,0 +1,33 @@
+{
+  "apiResources" : [ ],
+  "approvalType" : "manual",
+  "attributes" : [ {
+    "name" : "description",
+    "value" : ""
+  }, {
+    "name" : "developer.quota.interval",
+    "value" : "1"
+  }, {
+    "name" : "developer.quota.limit",
+    "value" : "1200"
+  }, {
+    "name" : "developer.quota.timeunit",
+    "value" : "minute"
+  }, {
+    "name" : "access",
+    "value" : "public"
+  } ],
+  "createdAt" : 1421105353580,
+  "createdBy" : "sandeep@apigee.com",
+  "description" : "",
+  "displayName" : "GoldPartners",
+  "environments" : [ "test", "prod" ],
+  "lastModifiedAt" : 1421217295970,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "gold",
+  "proxies" : [ "catalogs", "oauth2.0", "offers", "products", "stores", "users" ],
+  "quota" : "1200",
+  "quotaInterval" : "1",
+  "quotaTimeUnit" : "minute",
+  "scopes" : [ "" ]
+}

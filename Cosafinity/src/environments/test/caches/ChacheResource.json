@@ -1,0 +1,18 @@
+{
+  "description" : "Cache Resource",
+  "diskSizeInMB" : 0,
+  "distributed" : true,
+  "expirySettings" : {
+    "timeoutInSec" : {
+      "value" : "300"
+    },
+    "valuesNull" : false
+  },
+  "inMemorySizeInKB" : 0,
+  "maxElementsInMemory" : 100,
+  "maxElementsOnDisk" : 1000,
+  "name" : "ChacheResource",
+  "overflowToDisk" : true,
+  "persistent" : false,
+  "skipCacheIfElementSizeInKBExceeds" : 512
+}

@@ -1,0 +1,35 @@
+{
+  "accessType" : "",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "f9606ebd-006d-4ac4-bb38-b9258a1f792d",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "AndroidViewingApp"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1421109486371,
+  "createdBy" : "sandeep@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "gold",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "izoiGyXdixdnGd5sc8aYgezhx8IYY4Do",
+    "consumerSecret" : "hjfMBCVhocQ5KNxO",
+    "expiresAt" : -1,
+    "issuedAt" : 1421109548638,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "r1Quw7Mzwj3bm4G0",
+  "lastModifiedAt" : 1421217509337,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "AndroidViewingApp",
+  "scopes" : [ ],
+  "status" : "approved"
+}

@@ -1,0 +1,42 @@
+{
+  "apiResources" : [ ],
+  "approvalType" : "auto",
+  "attributes" : [ {
+    "name" : "description",
+    "value" : "Premium API Product to expose the weather API to developers"
+  }, {
+    "name" : "access",
+    "value" : "public"
+  }, {
+    "name" : "approveKeysMode",
+    "value" : "manually"
+  }, {
+    "name" : "keysPerResource",
+    "value" : "single"
+  }, {
+    "name" : "apisDeployedIn",
+    "value" : "both"
+  }, {
+    "name" : "servicePlan",
+    "value" : "silver"
+  }, {
+    "name" : "developer.quota.limit",
+    "value" : "10000"
+  }, {
+    "name" : "developer.quota.interval",
+    "value" : "1"
+  }, {
+    "name" : "developer.quota.timeunit",
+    "value" : "month"
+  } ],
+  "createdAt" : 1421101942569,
+  "createdBy" : "noreply_admin@apigee.com",
+  "description" : "Premium Weather API",
+  "displayName" : "Premium Weather API",
+  "environments" : [ ],
+  "lastModifiedAt" : 1421101942569,
+  "lastModifiedBy" : "noreply_admin@apigee.com",
+  "name" : "PremiumWeatherAPI",
+  "proxies" : [ ],
+  "scopes" : [ "READ" ]
+}

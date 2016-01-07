@@ -1,0 +1,16 @@
+{
+  "apps" : [ "weatherapp" ],
+  "companies" : [ ],
+  "email" : "tesla@weathersample.com",
+  "developerId" : "ak3Y21Jpw4UatLlc",
+  "firstName" : "Nikolai",
+  "lastName" : "Tesla",
+  "userName" : "Nikolai",
+  "organizationName" : "cosafinity",
+  "status" : "active",
+  "attributes" : [ ],
+  "createdAt" : 1421101942631,
+  "createdBy" : "noreply_admin@apigee.com",
+  "lastModifiedAt" : 1421101942631,
+  "lastModifiedBy" : "noreply_admin@apigee.com"
+}

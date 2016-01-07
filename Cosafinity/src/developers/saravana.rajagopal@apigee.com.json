@@ -1,0 +1,40 @@
+{
+  "apps" : [ ],
+  "companies" : [ ],
+  "email" : "saravana.rajagopal@apigee.com",
+  "developerId" : "axtKrR6eOgc78N0u",
+  "firstName" : "Saravanakumar",
+  "lastName" : "Rajagopal",
+  "userName" : "saravana.rajagopal@apigee.com",
+  "organizationName" : "hcl-cosafinity",
+  "status" : "active",
+  "attributes" : [ {
+    "name" : "MINT_COMPANY_ID"
+  }, {
+    "name" : "MINT_REGISTRATION_ID",
+    "value" : "ABC Company"
+  }, {
+    "name" : "MINT_TAX_EXEMPT_AUTH_NO"
+  }, {
+    "name" : "MINT_DEVELOPER_LEGAL_NAME",
+    "value" : "ABC Company"
+  }, {
+    "name" : "MINT_DEVELOPER_TYPE",
+    "value" : "UNTRUSTED"
+  }, {
+    "name" : "MINT_BILLING_TYPE",
+    "value" : "PREPAID"
+  }, {
+    "name" : "MINT_DEVELOPER_PHONE"
+  }, {
+    "name" : "MINT_DEVELOPER_ADDRESS",
+    "value" : "{\"address1\":\"London\",\"address2\":\"\",\"city\":\"London\",\"country\":\"UK\",\"isPrimary\":\"true\",\"state\":\"London\",\"zip\":\"SW192EU\"}"
+  }, {
+    "name" : "MINT_ROLES",
+    "value" : "[[\"Monetization Administrator\",\"Finance Administrator\"]]"
+  } ],
+  "createdAt" : 1421107403767,
+  "createdBy" : "sandeep@apigee.com",
+  "lastModifiedAt" : 1421107403767,
+  "lastModifiedBy" : "sandeep@apigee.com"
+}

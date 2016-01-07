@@ -1,0 +1,35 @@
+{
+  "accessType" : "read",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "2ee6729b-3444-4a58-8c4b-2ebdd1a5eaba",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "apiconsole"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "https://apigee.com/oauth_callback/hcl-cosafinity/oauth2CodeCallback",
+  "createdAt" : 1421108636963,
+  "createdBy" : "sandeep@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "gold",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "mw7tZxOGi89MMzbrdU16PTnBrzpHfUC0",
+    "consumerSecret" : "dgY8CJH2dXGAlWAi",
+    "expiresAt" : -1,
+    "issuedAt" : 1421108698810,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "r1Quw7Mzwj3bm4G0",
+  "lastModifiedAt" : 1421219202895,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "apiconsole",
+  "scopes" : [ ],
+  "status" : "approved"
+}

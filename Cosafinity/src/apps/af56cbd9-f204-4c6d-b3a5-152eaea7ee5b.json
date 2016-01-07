@@ -1,0 +1,35 @@
+{
+  "accessType" : "read",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "af56cbd9-f204-4c6d-b3a5-152eaea7ee5b",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "iPadApp"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1421107593068,
+  "createdBy" : "sandeep@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "SilverPartners",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "AcoBFTJPcGkGtDxFVjARS129oHG3lzIv",
+    "consumerSecret" : "FjoPl5y6rT0EIlKX",
+    "expiresAt" : -1,
+    "issuedAt" : 1421107655416,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "i6wbBVAap8nPw9ka",
+  "lastModifiedAt" : 1421217472096,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "iPadApp",
+  "scopes" : [ ],
+  "status" : "approved"
+}

@@ -1,0 +1,37 @@
+{
+  "apps" : [ "Beta-Test-App", "apiconsole", "Store-Printing-Test-App", "IphoneApplication", "AndroidViewingApp" ],
+  "companies" : [ ],
+  "email" : "sandeep@apigee.com",
+  "developerId" : "r1Quw7Mzwj3bm4G0",
+  "firstName" : "Sandeep",
+  "lastName" : "M",
+  "userName" : "sandeep@apigee.com",
+  "organizationName" : "hcl-cosafinity",
+  "status" : "active",
+  "attributes" : [ {
+    "name" : "lastModified",
+    "value" : "2013-05-03 09:07 PM"
+  }, {
+    "name" : "lastModifier",
+    "value" : "sandeep@apigee.com"
+  }, {
+    "name" : "creationDate",
+    "value" : "2013-05-03 09:07 PM"
+  }, {
+    "name" : "MINT_COMPANY_ID",
+    "value" : "tesla@weathersample.com"
+  }, {
+    "name" : "MINT_REGISTRATION_ID"
+  }, {
+    "name" : "MINT_TAX_EXEMPT_AUTH_NO"
+  }, {
+    "name" : "MINT_DEVELOPER_LEGAL_NAME"
+  }, {
+    "name" : "MINT_DEVELOPER_PHONE"
+  }, {
+    "name" : "MINT_DEVELOPER_ADDRESS"
+  }, {
+    "name" : "MINT_ROLES",
+    "value" : "[[\"Monetization Administrator\",\"Finance Administrator\"]]"
+  } ]
+}

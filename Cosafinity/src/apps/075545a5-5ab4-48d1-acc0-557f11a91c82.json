@@ -1,0 +1,38 @@
+{
+  "accessType" : "read",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "075545a5-5ab4-48d1-acc0-557f11a91c82",
+  "attributes" : [ {
+    "name" : "Developer",
+    "value" : "tesla@weathersample.com"
+  }, {
+    "name" : "DisplayName",
+    "value" : "Weather App"
+  }, {
+    "name" : "Notes",
+    "value" : "Weather App"
+  } ],
+  "callbackUrl" : "http://weatherapp.com",
+  "createdAt" : 1421101944854,
+  "createdBy" : "noreply_admin@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "PremiumWeatherAPI",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "qnKxiG0Olq4CJjNM2HfLwTbG6jN72hcp",
+    "consumerSecret" : "j6xRo53E91OTG0O8",
+    "expiresAt" : -1,
+    "issuedAt" : 1421101944918,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "ak3Y21Jpw4UatLlc",
+  "lastModifiedAt" : 1421101944854,
+  "lastModifiedBy" : "noreply_admin@apigee.com",
+  "name" : "weatherapp",
+  "scopes" : [ ],
+  "status" : "approved"
+}

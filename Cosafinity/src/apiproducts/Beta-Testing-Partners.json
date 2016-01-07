@@ -1,0 +1,18 @@
+{
+  "apiResources" : [ ],
+  "approvalType" : "auto",
+  "attributes" : [ ],
+  "createdAt" : 1421218386753,
+  "createdBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "description" : "Beta Testers",
+  "displayName" : "Beta Testing Partners",
+  "environments" : [ "test" ],
+  "lastModifiedAt" : 1421218386753,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "Beta-Testing-Partners",
+  "proxies" : [ "catalogs", "oauth2.0", "offers", "products", "stores", "users" ],
+  "quota" : "10",
+  "quotaInterval" : "1",
+  "quotaTimeUnit" : "minute",
+  "scopes" : [ "" ]
+}

@@ -1,0 +1,35 @@
+{
+  "accessType" : "",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "13e74f0a-91a9-4cf2-83e2-7ee3a36ea7f4",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "Beta Test App"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1421218419895,
+  "createdBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "Beta-Testing-Partners",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "fcdSKbBGG7WgxWQvZ2hHVQbmRn0n1hFU",
+    "consumerSecret" : "TpLMTmGsE1vA0sZS",
+    "expiresAt" : -1,
+    "issuedAt" : 1421218419911,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "r1Quw7Mzwj3bm4G0",
+  "lastModifiedAt" : 1421218419895,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "Beta-Test-App",
+  "scopes" : [ ],
+  "status" : "approved"
+}

@@ -1,0 +1,35 @@
+{
+  "accessType" : "",
+  "apiProducts" : [ ],
+  "appFamily" : "default",
+  "appId" : "71b80cfa-2bc7-494c-ba85-820b6bb82b65",
+  "attributes" : [ {
+    "name" : "DisplayName",
+    "value" : "Store Printing Test App"
+  }, {
+    "name" : "Notes",
+    "value" : ""
+  } ],
+  "callbackUrl" : "",
+  "createdAt" : 1421218460767,
+  "createdBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "credentials" : [ {
+    "apiProducts" : [ {
+      "apiproduct" : "Beta-Testing-Partners",
+      "status" : "approved"
+    } ],
+    "attributes" : [ ],
+    "consumerKey" : "duEJTgfOc6JxMowedRp8tTA3QK8tKXnz",
+    "consumerSecret" : "NulNbwiUfBJv7C4x",
+    "expiresAt" : -1,
+    "issuedAt" : 1421218460777,
+    "scopes" : [ ],
+    "status" : "approved"
+  } ],
+  "developerId" : "r1Quw7Mzwj3bm4G0",
+  "lastModifiedAt" : 1421218460767,
+  "lastModifiedBy" : "sandeep+hcl+cosafinity@apigee.com",
+  "name" : "Store-Printing-Test-App",
+  "scopes" : [ ],
+  "status" : "approved"
+}
