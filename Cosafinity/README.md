@@ -4,13 +4,13 @@
 
 
 ##Demo Environment
-Edge Management 
+- Edge Management 
  - Login: https://edge.apigee.com
  - Org: amer-demo27
-API BaaS 
+- API BaaS 
  - Login: https://appservices.apigee.com
  - Org: amer-demo27
-Developer Portal
+- Developer Portal
  - Login: http://dev-amer-demo27.devportal.apigee.com/
  - Use 'Authenticate with Apigee' on login from top right
 
